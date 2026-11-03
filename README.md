@@ -20,3 +20,46 @@
 <strong>Ejercicio 1 (Cajero):</strong>PIN de 4 dígitos, opción de menú y montos numéricos para depósitos/retiros.<br>  
 
 <strong>Ejercicio 2 (Préstamo):</strong> Monto del préstamo (RD$ 5,000 - 500,000), plazo (6 - 60 meses) y categoría del socio (A, B o C).</p>  
+<h2>Datos que Procesa:</h2>
+
+<p>Validación de intentos de PIN y cálculo de saldo actual (inicial de RD$ 10,000.00).<br>
+  
+Tasas de interés anuales según categoría (A: 12%, B: 15%, C: 18%).<br>  
+
+Fórmulas matemáticas para cuotas fijas mensuales y desglose de la tabla de amortización (interés, abono a capital y saldo).<br> 
+
+Validación estricta de entradas mediante TryParse. </p>
+
+<h2>Datos de Salida:</h2>
+
+<p><strong>Ejercicio 1:</strong> Mensajes de estado, saldo actualizado, cantidad total de depósitos, retiros y saldo final al salir.<br>
+  
+<strong>Ejercicio 2:</strong>Tabla de amortización detallada, totales pagados y opción de repetir la simulación.</p>
+
+<h2>Tecnología Utilizada:</h2>
+
+<p>Lenguaje: C#<br>
+  
+Entorno: [.NET SDK](https://dotnet.microsoft.com/).<br>
+
+Control de versiones: Git y GitHub<br> 
+
+Editor.md (Para el archivo Readme)</p> 
+
+<h2>Capturas:</h2>
+
+<p><strong>Ejercicio 1 - Caso Exitoso:</strong>
+
+(Insertar imagen aquí)
+
+<strong>Ejercicio 1 - Caso de Error:</strong>
+
+(Insertar imagen aquí)
+
+<strong>Ejercicio 2 - Caso Exitoso:</strong>
+
+(Insertar imagen aquí)
+
+<strong>Ejercicio 2 - Caso de Error:</strong></p>
+
+(Insertar imagen aquí)
