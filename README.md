@@ -50,11 +50,13 @@ Editor.md (Para el archivo Readme)</p>
 
 <p><strong>Ejercicio 1 - Caso Exitoso:</strong>
 
-(Insertar imagen aquí)
+<img width="1559" height="699" alt="image" src="https://github.com/user-attachments/assets/0fbc2d52-fd26-46f3-a34d-30bc35b6a053" />
+
 
 <strong>Ejercicio 1 - Caso de Error:</strong>
 
-(Insertar imagen aquí)
+<img width="1575" height="247" alt="image" src="https://github.com/user-attachments/assets/ea04188a-c6f3-4a8c-8fca-ea2aa2fc0b2f" />
+
 
 <strong>Ejercicio 2 - Caso Exitoso:</strong>
 
