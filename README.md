@@ -60,8 +60,9 @@ Editor.md (Para el archivo Readme)</p>
 
 <strong>Ejercicio 2 - Caso Exitoso:</strong>
 
-(Insertar imagen aquí)
+<img width="503" height="353" alt="Captura de pantalla 2026-11-03 194716" src="https://github.com/user-attachments/assets/aabe1a40-8018-4138-9d09-016ee36b4b4f" />
+
 
 <strong>Ejercicio 2 - Caso de Error:</strong></p>
 
-(Insertar imagen aquí)
+<img width="278" height="81" alt="Captura de pantalla 2026-11-03 194630" src="https://github.com/user-attachments/assets/d855327e-2681-4e59-8bcb-694312862334" />
